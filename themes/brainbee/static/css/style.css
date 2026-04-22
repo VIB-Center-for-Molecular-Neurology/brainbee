@@ -104,18 +104,6 @@ ul, ol {
   justify-content: space-between;
 }
 
-.footer-logo-img {
-  height: 70px;
-  width: auto;
-  vertical-align: middle;
-  margin-right: 0.5rem;
-}
-
-.logo-img {
-  height: 40px;
-  width: auto;
-}
-
 .logo a {
   display: flex;
   align-items: center;
@@ -130,6 +118,19 @@ ul, ol {
   color: #ffffff;
   letter-spacing: 0.02em;
 }
+.footer-logo-img {
+  height: 70px;
+  width: auto;
+  vertical-align: middle;
+  margin-right: 0.5rem;
+}
+
+.logo-img {
+  height: 40px;
+  width: auto;
+}
+
+
 
 /* Navigation */
 .main-nav {
