@@ -4,15 +4,15 @@
 
 /* --- Variables --- */
 :root {
-  --color-primary: #1a3a6b;      /* Deep navy blue — brain/science */
-  --color-secondary: #e8622a;    /* Vibrant orange — energy/passion */
-  --color-accent: #4caf8b;       /* Teal green — growth/learning */
+  --color-primary: #ffffff;      /* white */
+  --color-secondary: #FF0000;    /* Red = belgian flag  */
+  --color-accent: #FFFF00;       /*Yellow  */
   --color-bg: #ffffff;
-  --color-bg-alt: #f4f7fb;
-  --color-text: #2c2c2c;
+  --color-bg-alt: #FFFF00;
+  --color-text: #000000;
   --color-text-muted: #666666;
   --color-border: #dce3ec;
-  --color-hero-bg: #0d2550;
+  --color-hero-bg: #ffffff;
 
   --font-sans: 'Segoe UI', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
   --font-heading: Georgia, 'Times New Roman', serif;
@@ -102,18 +102,13 @@ ul, ol {
   display: flex;
   align-items: center;
   justify-content: space-between;
-}
-
-.logo a {
-  text-decoration: none;
-}
-
-.logo-text {
-  font-family: var(--font-heading);
-  font-size: 1.4rem;
-  font-weight: bold;
-  color: #ffffff;
-  letter-spacing: 0.02em;
+{
+<img src="{{ "images/logo.png" | relURL }}" alt="Brain Bee Logo" class="logo-img" style="height: 50px; width: auto;"> 
+{
+.logo img {
+  height: 50px;
+  width: auto;
+  display: block;
 }
 
 /* Navigation */
