@@ -54,7 +54,7 @@ This is the **first edition** of the Belgian Brain Bee! Here's how it works:
 
 ## Registration
 
-Registration for the 2026 Belgian Brain Bee Championship is **now open**. Sign up through our registration form below — it is free of charge!
+Registration for the 2026 Belgian Brain Bee Championship is **now open**. Sign up through our registration form below, it is free of charge!
 
 👉 [**Register here**](https://docs.google.com/forms/d/1vBIcjldSJ301WSBrscrCbnjdauvH8tivqNrRcmJS89c/)
 
@@ -71,6 +71,9 @@ Want to start preparing? Here are some recommended resources:
 ## Past Winners
 
 As this is the very first edition of the Belgian Brain Bee, there are no past champions yet — but this section will grow as the competition's history does. Will you be the first name on the list?
+
+&nbsp;
+___
 
 ## Frequently Asked Questions
 
