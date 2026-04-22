@@ -31,7 +31,7 @@ If you are a neuroscientist interested in volunteering as a judge or mentor, we 
 
 ## Media Inquiries
 
-For press inquiries or interview requests, please contact us by email with the subject line "Media".
+For press inquiries or interview requests, please contact us by email.
 
 ---
 
