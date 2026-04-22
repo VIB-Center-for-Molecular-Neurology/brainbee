@@ -9,10 +9,10 @@ draft: false
 
 Have questions about the Belgian Brain Bee? We are happy to hear from you.
 
-**Organising committee**
-Brain Bee Belgium
-VIB Center for Molecular Neurology
-Universiteitsplein 1
+**Organising committee**  
+Brain Bee Belgium  
+VIB Center for Molecular Neurology  
+Universiteitsplein 1  
 2610 Antwerp, Belgium
 
 **Email:** [brainbeebelgium@gmail.com](mailto:brainbeebelgium@gmail.com)
@@ -34,5 +34,4 @@ If you are a neuroscientist interested in volunteering as a judge or mentor, we 
 For press inquiries or interview requests, please contact us by email.
 
 ---
-
 *Brain Bee Belgium is organised by the [VIB Center for Molecular Neurology](https://www.vibcmn.be) in collaboration with Belgian universities and research institutions.*
