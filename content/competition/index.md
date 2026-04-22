@@ -1,7 +1,7 @@
 ---
 title: "The Competition"
 subtitle: "Everything you need to know about participating in The Belgian Brain Bee "
-date: 2025-09-09
+date: 2026-09-09
 draft: false
 ---
 
@@ -29,7 +29,7 @@ The Brain Bee is open to **high school students** (secondary school, ages 13–1
 
 ## How to Register
 
-Registration for the Belgian Brain Bee Championship opens annually. Here is the registration form [Register](https://docs.google.com/forms/d/1vBIcjldSJ301WSBrscrCbnjdauvH8tivqNrRcmJS89c/edit#settings) 
+Registration for the Belgian Brain Bee Championship opens annually. Here is the registration form [Register]([https://docs.google.com/forms/d/1vBIcjldSJ301WSBrscrCbnjdauvH8tivqNrRcmJS89c/edit#settings](https://docs.google.com/forms/d/e/1FAIpQLSdR5lsXiqH-tFPN1GeEWA1Tp3EyWT7depwSjMpKUOnKAwc9Nw/viewform)) 
 ## Study Resources
 
 To prepare for the Brain Bee, we recommend:
