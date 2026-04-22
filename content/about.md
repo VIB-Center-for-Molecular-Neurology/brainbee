@@ -5,40 +5,35 @@ date: 2026-04-09
 draft: false
 ---
 
-## What is the International Brain Bee?
+## About Brain Bee Belgium
 
-The **International Brain Bee (IBB)** is a neuroscience competition for high school students around the world. Founded in 1998, the Brain Bee aims to motivate young people to learn about the brain and to inspire them to pursue careers in neuroscience.
+Brain Bee Belgium is established as part of the **International Brain Bee (IBB)**, a global neuroscience competition for high school students founded in 1998 by Dr. Norbert Myslinski at the University of Maryland, USA. The IBB's mission is to inspire young minds to learn about the brain and to pursue careers in neuroscience — ultimately contributing to the understanding, treatment, and cure of brain disorders. Today, the IBB reaches over **50 countries**, connecting local, national, and international efforts into a worldwide network of future neuroscientists.
 
-The competition consists of:
+Brain Bee Belgium is organised by the [VIB Center for Molecular Neurology](https://www.vibcmn.be) in close collaboration with Belgian universities and research institutes. We host the **Belgian Brain Bee Championship**, which selects Belgium's representative for the IBB World Championship.
 
-- **A written test** covering topics in neuroscience
+## What does the competition look like?
+
+Students are tested through:
+
+- **A written test** covering a broad range of neuroscience topics
 - **An oral quiz** where students answer questions in front of an audience and a panel of judges
 
-Questions span topics including brain anatomy, neural pathways, neurological disorders, and current neuroscience research.
-
-## Brain Bee Belgium
-
-Brain Bee Belgium is the national hub for the International Brain Bee in Belgium. We organise the **Belgian Brain Bee Championship**, which selects the Belgian representative for the International Brain Bee World Championship.
-
-The competition is organised by the [VIB Center for Molecular Neurology](https://www.vibcmn.be) in close collaboration with Belgian universities and research institutes.
+Questions span brain anatomy, neural pathways, neurological disorders, and cutting-edge neuroscience research.
 
 ## How does it work?
 
-1. **Local competitions** are held at schools and universities across Belgium.
-2. The winners of each local competition advance to the **Belgian Brain Bee Championship**.
-3. The Belgian national winner competes at the **International Brain Bee World Championship**.
+All registered students compete directly in the **Belgian Brain Bee Championship**, and the national winner earns the right to represent Belgium at the **IBB World Championship**. 
 
 ## Why participate?
 
-For this first edition we will do directly the National Competition, therefore the winners cna ascend in the international. In the next editions we will consider starting with this format : 
-- Deepen your knowledge of neuroscience
-- Meet other students passionate about brain science
+- Deepen your understanding of the brain and neuroscience
+- Meet fellow students who share your passion for brain science
 - Connect with professional scientists and researchers
-- Represent Belgium on an international stage
-- Inspire a career in neuroscience research or medicine
+- Represent Belgium on the international stage
+- Spark a career in neuroscience research or medicine
 
-## About the International Brain Bee
+## The International Brain Bee
 
-The International Brain Bee has grown to include participants from over 50 countries and has become a major event in the global neuroscience community. It not only provides students with the opportunity to learn about the brain but also fosters collaboration and communication between students, educators, and scientists from around the world.
+The IBB has grown into a major event in the global neuroscience community. Beyond the competition itself, it fosters collaboration and communication between students, educators, and scientists from around the world, building a community that extends well beyond the championship.
 
 For more information about the global competition, visit the [International Brain Bee website](https://www.internationalbrainbee.com/)!
