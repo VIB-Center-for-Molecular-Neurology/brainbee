@@ -1,27 +1,32 @@
 ---
-title: "Registration open for 2025 Belgian Brain Bee Championship"
+title: "Registration open for 2026 Belgian Brain Bee Championship"
 date: 2026-04-01
 draft: false
-summary: "Registration for the 2026 Belgian Brain Bee Championship is now open. High school students from across Belgium are invited to participate."
+summary: "Registration for the first-ever Belgian Brain Bee Championship is now open. Secondary school students across Belgium are invited to participate in this free neuroscience competition on 9 September 2026."
 ---
 
-Registration for the **2026 Belgian Brain Bee Championship** is now open!
+Registration for the **first edition of the Belgian Brain Bee Championship** is officially open! 🧠
 
-High school students from across Belgium are invited to take part in this exciting neuroscience competition.
+We're looking for curious, science-minded secondary school students from across Belgium to take part in this free neuroscience competition. Whether you're already passionate about the brain or just getting started: this is your chance to dive in!
+
+## When and Where
+
+The National Championship will take place on **9 September 2026** at the **University of Antwerp**. Check the full timeline and competition information on our [competition page](/competition/).
+
 ## How to Register
 
-Students can register individually or through their school. Contact your teacher or email [Brainbeebelgium@gmail.com](mailto:Brainbeebelgium@gmail.com) to get started.
+Registration is free and takes just a few minutes. You can sign up individually or through your school.
 
-## Competition Date
+👉 [**Register here**](https://docs.google.com/forms/d/1vBIcjldSJ301WSBrscrCbnjdauvH8tivqNrRcmJS89c/edit#settings)
 
-The date of the competition is 09/09/2026
+Have questions? Reach out to us at [brainbeebelgium@gmail.com](mailto:brainbeebelgium@gmail.com) or visit our [contact page](/contact/).
 
-## Prepare Yourself
+## What's at Stake
 
-Visit our [competition page](/competition/) for a full list of topics and recommended study materials. The best preparation is a thorough reading of a neuroscience textbook and the official IBB study guide.
+Top performers will receive a **special prize**, and the overall winner will earn the right to **represent Belgium** at the [International Brain Bee World Championship](https://www.internationalbrainbee.com/), competing against students from over 50 countries.
 
-## Prize
+## Start Preparing
 
-The winner of the Belgian Brain Bee Championship will represent Belgium at the **International Brain Bee World Championship**, held in conjunction with a major international neuroscience conference.
+The best time to start studying is now. Head over to our [competition page](/competition/) for the full list of topics and recommended study resources, including the official [Brain Facts](https://www.brainfacts.org/-/media/Brainfacts2/BrainFacts-Book/Brain-Facts-PDF-with-links.pdf) study guide. You can also learn more about what the Brain Bee is all about on our [about page](/about/).
 
-Good luck to all participants!
+Good luck to all participants — we can't wait to meet you in Antwerp!
