@@ -1,6 +1,6 @@
 ---
 title: "Brain Bee Belgium launches new website"
-date: 2024-09-01
+date: 2026-04-10
 draft: false
 summary: "We are excited to announce the launch of the official Brain Bee Belgium website, your hub for all information about the Belgian Brain Bee Championship."
 ---

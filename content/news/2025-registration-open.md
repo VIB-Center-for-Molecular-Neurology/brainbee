@@ -1,6 +1,6 @@
 ---
 title: "Registration open for 2026 Belgian Brain Bee Championship"
-date: 2026-04-01
+date: 2026-04-20
 draft: false
 summary: "Registration for the first-ever Belgian Brain Bee Championship is now open. Secondary school students across Belgium are invited to participate in this free neuroscience competition on 9 September 2026."
 ---
