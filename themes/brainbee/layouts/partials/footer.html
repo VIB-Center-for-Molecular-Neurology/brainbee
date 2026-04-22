@@ -1,7 +1,10 @@
 <footer class="site-footer">
   <div class="footer-inner">
     <div class="footer-content">
-      <p class="footer-logo">🧠 {{ .Site.Title }}</p>
+      <p class="footer-logo">
+        <img src="{{ "images/BelgianBrainBeeLogo.png" | relURL }}" alt="{{ .Site.Title }} Logo" class="footer-logo-img" />
+        {{ .Site.Title }}
+      </p>
       <p class="footer-tagline">{{ .Site.Params.tagline }}</p>
     </div>
     <div class="footer-links">

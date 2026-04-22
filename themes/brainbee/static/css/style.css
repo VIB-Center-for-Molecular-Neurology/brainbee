@@ -104,7 +104,22 @@ ul, ol {
   justify-content: space-between;
 }
 
+.footer-logo-img {
+  height: 70px;
+  width: auto;
+  vertical-align: middle;
+  margin-right: 0.5rem;
+}
+
+.logo-img {
+  height: 40px;
+  width: auto;
+}
+
 .logo a {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
   text-decoration: none;
 }
 

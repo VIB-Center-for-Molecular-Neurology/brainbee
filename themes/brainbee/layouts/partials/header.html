@@ -2,7 +2,8 @@
   <div class="header-inner">
     <div class="logo">
       <a href="{{ "/" | relURL }}">
-        <span class="logo-text">🧠 {{ .Site.Title }}</span>
+        <img src="{{ "images/BelgianBrainBeeLogo.png" | relURL }}" alt="{{ .Site.Title }} Logo" class="logo-img" />
+        <span class="logo-text"> {{ .Site.Title }}</span>
       </a>
     </div>
     <nav class="main-nav" aria-label="Main navigation">
@@ -20,3 +21,4 @@
     </nav>
   </div>
 </header>
+
