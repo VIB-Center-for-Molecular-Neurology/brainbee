@@ -23,7 +23,7 @@ Have questions? Reach out to us at [brainbeebelgium@gmail.com](mailto:brainbeebe
 
 ## What's at Stake
 
-Top performers will receive a **special prize**, and the overall winner will earn the right to **represent Belgium** at the [International Brain Bee World Championship](https://www.internationalbrainbee.com/), competing against students from over 50 countries.
+Top performers will receive a **special prize**, and the overall winner will earn the right to **represent Belgium** at the [International Brain Bee World Championship](https://www.thebrainbee.org/), competing against students from over 50 countries.
 
 ## Start Preparing
 
