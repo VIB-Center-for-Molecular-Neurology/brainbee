@@ -56,7 +56,7 @@ This is the **first edition** of the Belgian Brain Bee! Here's how it works:
 
 Registration for the 2026 Belgian Brain Bee Championship is **now open**. Sign up through our registration form below, it is free of charge!
 
-👉 [**Register here**](https://docs.google.com/forms/d/1vBIcjldSJ301WSBrscrCbnjdauvH8tivqNrRcmJS89c/)
+👉 [**Register here**](https://docs.google.com/forms/d/e/1FAIpQLSdR5lsXiqH-tFPN1GeEWA1Tp3EyWT7depwSjMpKUOnKAwc9Nw/viewform)
 
 For your **teacher** or **student support coordinator** to complete: the recommendation form ([pdf](https://brainbee.be/2026/brainbee_belgium_recommendation.pdf) or [docx](https://brainbee.be/2026/brainbee_belgium_recommendation.docx)) and email it to: **brainbeebelgium@gmail.com**.  One form can be used for several students that registered. 
 
