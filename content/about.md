@@ -9,7 +9,7 @@ draft: false
 
 Brain Bee Belgium is established as part of the **International Brain Bee (IBB)**, a global neuroscience competition for high school students founded in 1998 by Dr. Norbert Myslinski at the University of Maryland, USA. The IBB's mission is to inspire young minds to learn about the brain and to pursue careers in neuroscience — ultimately contributing to the understanding, treatment, and cure of brain disorders. Today, the IBB reaches over **50 countries**, connecting local, national, and international efforts into a worldwide network of future neuroscientists.
 
-Brain Bee Belgium is organised by the [VIB Center for Molecular Neurology](https://www.vibcmn.be) in close collaboration with Belgian universities and research institutes. We host the **Belgian Brain Bee Championship**, which selects Belgium's representative for the [IBB World Championship](https://www.thebrainbee.org/). See below for more info about the international championship!
+The Belgian Brain Bee is organised under the auspices of the [Belgian Society for Neuroscience (BSN)](https://belgianneuroscience.be/), hosted by the [University of Antwerp](https://www.uantwerpen.be/nl/onderzoek/), and co-organised with [VIB-CMN](https://uantwerpen.vib.be/). **Brain Bee Belgium Championship** selects Belgium's representative for the [IBB World Championship](https://www.thebrainbee.org/). See below for more info about the international championship!
 
 ## What does the Belgian competition look like?
 

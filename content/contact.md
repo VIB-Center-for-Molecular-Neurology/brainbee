@@ -7,7 +7,7 @@ draft: false
 
 ## Contact Us
 
-Have questions about the Belgian Brain Bee? We are happy to hear from you.
+Have questions about Brain Bee Belgium? We are happy to hear from you.
 
 
 **Email:** [brainbeebelgium@gmail.com](mailto:brainbeebelgium@gmail.com)

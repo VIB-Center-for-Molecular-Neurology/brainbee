@@ -1,6 +1,6 @@
 ---
 title: "Competition & registration"
-subtitle: "Everything you need to know about participating in The Belgian Brain Bee. Registration can also be done on this page!"
+subtitle: "Everything you need to know about participating in the Brain Bee competition. Registration can also be done on this page!"
 date: 2025-09-09
 draft: false
 ---
