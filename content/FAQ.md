@@ -13,7 +13,7 @@ draft: false
 Students must be aged 13 to 18 (19 not included) at the time of the competition and enrolled in a Belgian secondary school. There is no requirement to have studied neuroscience before — just a curiosity about the brain.
 
 **How many students can participate?**  
-For this first edition, we expect between 15 and 30 participants. There are no regional qualifying rounds — all registered students compete directly in the national championship. If more students register than we can accommodate, participants will be selected based on the strength of their application.
+For this first edition, we expect to have a limit of 30 students. There are no regional qualifying rounds — all registered students compete directly in the national championship. If more students register than we can accommodate, participants will be selected based on the strength of their application.
 
 **Is there a limit to how many students can participate from one school?**  
 No. We welcome multiple students from the same school. We encourage teachers to spread the word and register all interested students. One teacher can nominate more than one student.
