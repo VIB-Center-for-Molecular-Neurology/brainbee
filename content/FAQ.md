@@ -10,7 +10,7 @@ draft: false
 ### Eligibility & Registration
 
 **What age do students need to be to compete?**  
-Students must be between 13 and 18 years old at the time of the competition and enrolled in a Belgian secondary school. There is no requirement to have studied neuroscience before — just a curiosity about the brain.
+Students must be aged 13 to 18 (19 not included) at the time of the competition and enrolled in a Belgian secondary school. There is no requirement to have studied neuroscience before — just a curiosity about the brain.
 
 **How many students can participate?**  
 For this first edition, we expect between 15 and 30 participants. There are no regional qualifying rounds — all registered students compete directly in the national championship. If more students register than we can accommodate, participants will be selected based on the strength of their application.

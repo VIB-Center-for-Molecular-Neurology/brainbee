@@ -25,7 +25,7 @@ The highest-scoring students from the written test advance to the oral quiz — 
 
 ## Who Can Participate?
 
-- The Belgian Brain Bee is open to all secondary school students **born between 10 November 2007 and 6 November 2013**  
+- The Belgian Brain Bee is open to all secondary school students **aged 13 to 18** (19 not included)  
 - The competing student should be enrolled in a **Belgian secondary school** (middelbare school).
 - The competition is conducted **entirely in English**, so English proficiency is required.
 - Participation is completely **free**.
