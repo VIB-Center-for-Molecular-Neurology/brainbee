@@ -542,3 +542,45 @@ ul, ol {
 /* --- Utility --- */
 .text-center { text-align: center; }
 .mt-2 { margin-top: 2rem; }
+
+/* --- Toggle Accordion FAQ --- */
+.toggle-item {
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  margin-bottom: 0.75rem;
+  overflow: hidden;
+}
+
+.toggle-item summary {
+  padding: 1rem 1.25rem;
+  font-weight: 600;
+  cursor: pointer;
+  background: var(--color-bg-alt);
+  transition: background 0.2s;
+  list-style: none;
+}
+
+.toggle-item summary::-webkit-details-marker {
+  display: none;
+}
+
+.toggle-item summary::before {
+  content: '▸';
+  display: inline-block;
+  margin-right: 0.6rem;
+  transition: transform 0.2s;
+  color: var(--color-secondary);
+}
+
+.toggle-item[open] summary::before {
+  transform: rotate(90deg);
+}
+
+.toggle-item[open] summary {
+  border-bottom: 1px solid var(--color-border);
+  background: #fff;
+}
+
+.toggle-answer {
+  padding: 1rem 1.25rem;
+}
