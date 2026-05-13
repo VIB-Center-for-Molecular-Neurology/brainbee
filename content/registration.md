@@ -1,6 +1,6 @@
 ---
 title: "Registration"
-subtitle: "Register here for Brain Bee Belgium!"
+subtitle: "On this page you can find the registration form and other useful info to complete your registration."
 date: 2025-09-09
 draft: false
 ---
@@ -8,14 +8,13 @@ draft: false
 
 Registration for the 2026 Belgian Brain Bee Championship is **now open** and completely free of charge! 
 
-To complete your registration, two steps are required:
-
-{{< toggle question="Step 1: Register yourself" >}}  
-[Register yourself via the Google form](https://docs.google.com/forms/d/e/1FAIpQLSdR5lsXiqH-tFPN1GeEWA1Tp3EyWT7depwSjMpKUOnKAwc9Nw/viewform) 
+**To complete your registration, two steps are required:**
+{{< toggle question="Step 1: Registration" >}}  
+Register yourself before July 1st via [the registration form](https://docs.google.com/forms/d/e/1FAIpQLSdR5lsXiqH-tFPN1GeEWA1Tp3EyWT7depwSjMpKUOnKAwc9Nw/viewform) 
 {{< /toggle>}}
 
-{{< toggle question="Step 2: Get a teacher recommendation" >}} Ask your teacher or student support coordinator to complete the recommendation form and email it to **brainbeebelgium@gmail.com**. One form can cover multiple students from the same school.  
-📄 Download: [PDF](https://brainbee.be/2026/brainbee_belgium_recommendation.pdf) | [Word](https://brainbee.be/2026/brainbee_belgium_recommendation.docx)
+{{< toggle question="Step 2: Get a teacher recommendation" >}} Ask your teacher or student support coordinator to complete the recommendation form linked here and email it to **brainbeebelgium@gmail.com**. One form can cover multiple students from the same school.  
+📄 Download the template here: [PDF](https://brainbee.be/2026/brainbee_belgium_recommendation.pdf) | [Word](https://brainbee.be/2026/brainbee_belgium_recommendation.docx)
 {{< /toggle>}}
   
 &nbsp;
