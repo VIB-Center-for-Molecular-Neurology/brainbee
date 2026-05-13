@@ -66,9 +66,10 @@ summaryLength = 40
   weight = 3
 
 [[menus.main]]
-  name = "Organisation"
-  url = "/organisation/"
+  name = "Registration"
+  url = "/registration/"
   weight = 4
+
 
 [[menus.main]]
   name = "Updates"
@@ -76,9 +77,19 @@ summaryLength = 40
   weight = 5
 
 [[menus.main]]
+  name = "Organisation"
+  url = "/organisation/"
+  weight = 6
+
+[[menus.main]]
+  name = "Sponsors"
+  url = "/sponsors/"
+  weight = 7
+
+[[menus.main]]
   name = "FAQ"
   url = "/FAQ/"
-  weight = 6
+  weight = 51
 
 [[menus.main]]
   name = "Contact"
