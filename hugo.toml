@@ -9,7 +9,7 @@ summaryLength = 40
   description = "Belgium's hub for the International Brain Bee — a neuroscience competition for high school students."
   tagline = "Inspiring the next generation of neuroscientists."
   organizer = "VIB Center for Molecular Neurology"
-  organizerURL = "https://www.vibcmn.be"
+  organizerURL = "https://cmn.sites.vib.be/en#/"
 
   [params.hero]
     title = "Brain Bee Belgium"
