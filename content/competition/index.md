@@ -1,29 +1,22 @@
 ---
-title: "Competition & registration"
-subtitle: "Everything you need to know about participating in the Brain Bee competition. Registration can also be done on this page!"
+title: "Competition"
+subtitle: "Everything you need to know about participating in the Brain Bee competition."
 date: 2025-09-09
 draft: false
 ---
 
-## The Competition
+## Important Dates
 
-The Belgian Brain Bee is a neuroscience competition that challenges secondary school students to demonstrate their knowledge of the brain. The format follows the standards set by the International Brain Bee and consists of two rounds: a written test and a live oral quiz.
+| Milestone | Date | Details |
+|---|---|---|
+| 📝 Registration deadline | 1 July 2026 | [Register here](/registration/) |
+| ✅ Confirmation of participation | August 2026 | Via email |
+| 🧠 National Championship | 9 September 2026 | University of Antwerp |
+| 🌍 IBB World Championship | November 2026 | Online |
 
-### Written Test
+## The Rules
 
-The first round is a written test combining multiple-choice and short-answer questions. Topics include:
-
-- **Neuroanatomy**: the structure of the brain and nervous system
-- **Neural pathways**: how signals travel through the nervous system
-- **Neurological and psychiatric disorders**: from Alzheimer's and Parkinson's disease to epilepsy and depression
-- **Neuroscience research**: current breakthroughs and discoveries shaping the field
-- **Neuropharmacology**: how drugs interact with the nervous system
-
-### Oral Quiz
-
-The highest-scoring students from the written test advance to the oral quiz — a fast-paced live round in front of an audience and a panel of judges. Here, it's not just about what you know, but how quickly and confidently you can think on your feet.
-
-## Who Can Participate?
+The Belgian Brain Bee is a neuroscience competition that challenges secondary school students to demonstrate their knowledge of the brain.
 
 - The Belgian Brain Bee is open to all secondary school students **aged 13 to 18** (19 not included)  
 - The competing student should be enrolled in a **Belgian secondary school** (middelbare school).
@@ -31,36 +24,39 @@ The highest-scoring students from the written test advance to the oral quiz — 
 - Participation is completely **free**.
 - You are only allowed to participate **once** in the **International** Brain Bee.
 
-*We also welcome volunteers! If you'd like to help, you can apply by filling out the application form as well.*
+*We also welcome volunteers! If you'd like to help, you can apply by reaching out to us via [our mail address.](mailto:brainbeebelgium@gmail.com)*
 
-## 2026 Edition — What to Expect
 
-This is the **first edition** of the Belgian Brain Bee! Here's how it works:
+## Prizes
+Just like any other competition, we have foreseen some exciting prices, and not only for the top three students!
+- **First place:** The winner of this national Brain Bee, gets to represent Belgium during the **International Brain Bee World Championship**, hosted by the US!
+Other prices include: a cash price of **250 euro**, a trophee, a goodie bag, ...
+- **Second** and **third** place will also receive a cash price of **150** euro and **100** euro respectively, a trophee and a goodie bag filled with fun stuff ...
+- **ALL other participants** will receive a goodie bag as well!
 
-1. **Register** below for free (individually or through your school).
-2. **Prepare** using our recommended neuroscience study resources.
-3. **Compete** in the National Championship at the University of Antwerp. **Results** will be announced at the end of the competition day!
-4. **Top performers** receive a special prize.
-5. **The winner** represents Belgium at the International Brain Bee World Championship, hosted by the US.
 
-### Timeline 2026
+## Competition Format
 
-| Milestone | Date | Details |
-|---|---|---|
-| 📝 Registration deadline | 1 July 2026 | [Register here](https://docs.google.com/forms/d/1vBIcjldSJ301WSBrscrCbnjdauvH8tivqNrRcmJS89c) |
-| ✅ Confirmation of participation | August 2026 | Via email |
-| 🧠 National Championship | 9 September 2026 | University of Antwerp |
-| 🌍 IBB World Championship | November 2026 | Online |
+The format follows the standards set by the International Brain Bee and consists of two rounds: a written test and a live oral quiz.
 
-## Registration
+{{< toggle question="1. The Written Test" >}}
+The first round is a written test combining multiple-choice and short-answer questions. Topics include:
 
-Registration for the 2026 Belgian Brain Bee Championship is **now open**. Sign up through our registration form below, it is free of charge!
+- **Neuroanatomy**: the structure of the brain and nervous system
+- **Neural pathways**: how signals travel through the nervous system
+- **Neurological and psychiatric disorders**: from Alzheimer's and Parkinson's disease to epilepsy and depression
+- **Neuroscience research**: current breakthroughs and discoveries shaping the field
+- **Neuropharmacology**: how drugs interact with the nervous system  
+{{< /toggle>}}
 
-👉 [**Register here**](https://docs.google.com/forms/d/e/1FAIpQLSdR5lsXiqH-tFPN1GeEWA1Tp3EyWT7depwSjMpKUOnKAwc9Nw/viewform)
 
-For your **teacher** or **student support coordinator** to complete: the recommendation form ([pdf](https://brainbee.be/2026/brainbee_belgium_recommendation.pdf) or [docx](https://brainbee.be/2026/brainbee_belgium_recommendation.docx)) and email it to: **brainbeebelgium@gmail.com**.  One form can be used for several students that registered. 
+{{< toggle question="2. Oral Quiz" >}}
+The highest-scoring students from the written test advance to the oral quiz — a fast-paced live round in front of an audience and a panel of judges. Here, it's not just about what you know, but how quickly and confidently you can think on your feet.  
+{{< /toggle>}}
 
-For any questions, reach out to us at **brainbeebelgium@gmail.com**.
+Using the study resources below, you can optimally prepare for all questions!
+
+
 
 ## Study Resources
 
