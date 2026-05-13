@@ -123,14 +123,14 @@ ul, ol {
 }
 
 .footer-logo-img {
-  height: 100px;
+  height: 140px;
   width: auto;
   vertical-align: middle;
   margin-right: 0.5rem;
 }
 
-.logo-img {
-  height: 50px;
+.header-logo-img {
+  height: 60px;
   width: auto;
 }
 
