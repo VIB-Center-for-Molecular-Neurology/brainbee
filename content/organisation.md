@@ -33,7 +33,7 @@ Celeste Laureyssen
 Victoria Rambaud  
 Kato Nauwelaers  
 Lisa Koole  
-Emmanuel Munaku (instigator)  
+Emmanuel Mukuna Nzila (Student initiator)  
 
 
 
