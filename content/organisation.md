@@ -33,7 +33,7 @@ The Belgian Brain Bee is organised under the auspices of the Belgian Society for
 | Victoria Rambaud | UGent, BSN |
 | Kato Nauwelaers | UAntwerp |
 | Lisa Koole | UHasselt, Maastricht University, BSN |
-| Emmanuel Mukanu Nzila (Student initiator) | Student |
+| Emmanuel Mukanu Nzila | Student, initiator |
 
 | Scientific Board | Affiliation |
 |---|---|
