@@ -12,9 +12,41 @@ draft: false
 The Belgian Brain Bee is organised under the auspices of the Belgian Society for Neuroscience (BSN), hosted by the University of Antwerp (UAntwerpen), and co-organised with VIB-CMN.
 
 ### Organising Committee
+**Core members**  
 Marion Decrop  
-Mojca Strazisar
+Mojca Strazisar  
+Lara Bardi  
+Eline Turcksin  
+
+**Members**    
+Anika Perdok  
+Liesbeth Vanherp  
+Anne Wienand  
+Rita Cacace  
+Alma Nazlie Mohebiany  
+Cristina Teixeira Vicente  
+Pieter Van de Walle  
+Nicole Wawrzyniak  
+Sofie Meulenbergs  
+Mélanie Deleneer  
+Celeste Laureyssen  
+Victoria Rambaud  
+Kato Nauwelaers  
+Lisa Koole  
+Emmanuel Munaku (instigator)  
 
 
-### Scientific Committee
+
+### Scientific Board
+Rosa Rademakers   
+Albena Jordanova  
+Sarah Weckhuysen  
+Kristel Sleegers  
+Julie Van Der Zee   
+Renzo Mancuso   
+Vincent Timmerman  
+Robrecht Raedt  
+Laurence Ris  
+Gilles Pourtois  
+Lara Bardi
 
