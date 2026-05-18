@@ -5,48 +5,46 @@ date: 2025-09-09
 draft: false
 ---
 
-### Disclaimer
-🚧 *This part of the website is still under construction. Stay tuned for updates!* 🚧
 
 ## About 
 The Belgian Brain Bee is organised under the auspices of the Belgian Society for Neuroscience (BSN), hosted by the University of Antwerp (UAntwerpen), co-organised with VIB-CMN and the UAntwerp Core Facilities [NSF](https://www.neuromicssupportfacility.be/) and [BIOMINA](https://www.biomina.be/).
 
 ### Organising Committee
-**Core members**  
-Marion Decrop  
-Mojca Strazisar  
-Lara Bardi  
-Eline Turcksin  
+| Core Members | Affiliation |
+|---|---|
+| Marion Decrop | UAntwerp, BSN |
+| Mojca Strazisar | NSF, UAntwerp |
+| Lara Bardi | UGent, BSN |
+| Eline Turcksin | BIOMINA, UAntwerp |
 
-**Members**    
-Anika Perdok  
-Liesbeth Vanherp  
-Anne Wienand  
-Rita Cacace  
-Alma Nazlie Mohebiany  
-Cristina Teixeira Vicente  
-Pieter Van de Walle  
-Nicole Wawrzyniak  
-Sofie Meulenbergs  
-Mélanie Deleneer  
-Celeste Laureyssen  
-Victoria Rambaud  
-Kato Nauwelaers  
-Lisa Koole  
-Emmanuel Mukanu Nzila (Student initiator)  
+| Members|Affiliation|
+|---|---|
+| Anika Perdok | UAntwerp |
+| Liesbeth Vanherp | UAntwerp |
+| Anne Wienand | UAntwerp |
+| Rita Cacace | UAntwerp |
+| Alma Nazlie Mohebiany | UAntwerp |
+| Cristina Teixeira Vicente | UAntwerp |
+| Pieter Van de Walle | UAntwerp |
+| Nicole Wawrzyniak | KU Leuven |
+| Sofie Meulenbergs | UAntwerp |
+| Mélanie Deleneer | UMons |
+| Celeste Laureyssen | UAntwerp |
+| Victoria Rambaud | UGent, BSN |
+| Kato Nauwelaers | UAntwerp |
+| Lisa Koole | UHasselt, Maastricht University, BSN |
+| Emmanuel Mukanu Nzila (Student initiator) | Student |
 
-
-
-### Scientific Board
-Rosa Rademakers   
-Albena Jordanova  
-Sarah Weckhuysen  
-Kristel Sleegers  
-Julie Van Der Zee   
-Renzo Mancuso   
-Vincent Timmerman  
-Robrecht Raedt  
-Laurence Ris  
-Gilles Pourtois  
-Lara Bardi
-
+| Scientific Board | Affiliation |
+|---|---|
+| Rosa Rademakers | VIB-UA (CMN) |
+| Albena Jordanova | VIB-UA (CMN) |
+| Sarah Weckhuysen | VIB-UA (CMN) |
+| Kristel Sleegers | VIB-UA (CMN) |
+| Julie Van Der Zee | VIB-UA (CMN) |
+| Renzo Mancuso | VIB-UA (CMN) |
+| Vincent Timmerman | VIB-UA (CMN) |
+| Robrecht Raedt | UGent, BSN |
+| Laurence Ris | UMons, BSN |
+| Gilles Pourtois | UGent |
+| Lara Bardi | UGent, BSN |
