@@ -5,6 +5,11 @@ theme = "brainbee"
 enableRobotsTXT = true
 summaryLength = 40
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   description = "Belgium's hub for the International Brain Bee — a neuroscience competition for high school students."
   tagline = "Inspiring the next generation of neuroscientists."
