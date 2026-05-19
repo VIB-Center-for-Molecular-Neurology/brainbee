@@ -1,5 +1,5 @@
 <footer class="site-footer">
-  <div class="footer-inner">
+  <div class="footer-inner" style="display: flex; align-items: flex-end;">
     <div class="footer-content">
       <p class="footer-logo">
         <img src="{{ "images/BelgianBrainBee.png" | relURL }}" alt="{{ .Site.Title }} Logo" class="footer-logo-img" />
@@ -7,21 +7,26 @@
       </p>
       <p class="footer-tagline">{{ .Site.Params.tagline }}</p>
     </div>
-    <div class="footer-links">
-      <p>
-        {{ range .Site.Params.socialLinks }}
-        <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>
-        {{ end }}
-      </p>
-    </div>
-    <div class="footer-copy">
-      <p style="color: var(--color-secondary); font-weight: 600;">🚧 DISCLAIMER: This website is still under construction. Stay tuned for updates!</p>
+
+    <div class="footer-copy" style="text-align: right; margin-left: auto; padding: 1rem;">
+      <!-- Logos above the text -->
+      <div style="display: flex; justify-content: flex-end; align-items: center; gap: 2rem; margin-bottom: 1rem;">
+        <a href="https://cmn.sites.vib.be/en#/" target="_blank" rel="noopener noreferrer">
+          <img src="{{ "images/cmn.jpg" | relURL }}" alt="VIB-CMN" style="height: 70px;">
+        </a>
+        <a href="https://belgianneuroscience.be/" target="_blank" rel="noopener noreferrer">
+          <img src="{{ "images/bsn.png" | relURL }}" alt="BSN" style="height: 80px;">
+        </a>
+        <a href="https://www.uantwerpen.be/" target="_blank" rel="noopener noreferrer">
+          <img src="{{ "images/uantwerp.png" | relURL }}" alt="UAntwerp" style="height: 55px;">
+        </a>
+      </div>
+
       <p>&copy; {{ now.Year }} {{ .Site.Title }}. Part of the
         <a href="https://www.thebrainbee.org/" target="_blank" rel="noopener noreferrer">
-          International Brain Bee
-        </a>.
+          International Brain Bee</a>.
       </p>
-      <p>Organised by <a href="{{ .Site.Params.organizerURL }}" target="_blank" rel="noopener noreferrer">{{ .Site.Params.organizer }}</a>.</p>
+      <p>The Belgian Brain Bee is organised under the auspices of the <a href="https://belgianneuroscience.be/" target="_blank" rel="noopener noreferrer">Belgian Society for Neuroscience (BSN)</a>, hosted by the University of Antwerp (UAntwerpen), co-organised with <a href="https://cmn.sites.vib.be/en#/" target="_blank" rel="noopener noreferrer">VIB-CMN</a> and the UAntwerp Core Facilities <a href="https://www.neuromicssupportfacility.be/" target="_blank" rel="noopener noreferrer">NSF</a> and <a href="https://www.biomina.be/" target="_blank" rel="noopener noreferrer">BIOMINA</a>.</p>
     </div>
   </div>
 </footer>
