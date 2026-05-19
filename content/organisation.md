@@ -7,7 +7,7 @@ draft: false
 
 
 ## About 
-The Belgian Brain Bee is organised under the auspices of the Belgian Society for Neuroscience (BSN), hosted by the University of Antwerp (UAntwerpen), co-organised with VIB-CMN and the UAntwerp Core Facilities [NSF](https://www.neuromicssupportfacility.be/) and [BIOMINA](https://www.biomina.be/).
+The Belgian Brain Bee is organised under the auspices of the [Belgian Society for Neuroscience (BSN)](https://belgianneuroscience.be/), hosted by the University of Antwerp (UAntwerpen), co-organised with [VIB-CMN](https://cmn.sites.vib.be/en#/) and the UAntwerp Core Facilities [NSF](https://www.neuromicssupportfacility.be/) and [BIOMINA](https://www.biomina.be/).
 
 ### Organising Committee
 | Core Members | Affiliation |
