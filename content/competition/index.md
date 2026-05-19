@@ -9,7 +9,7 @@ draft: false
 
 | Milestone | Date | Details |
 |---|---|---|
-| 📝 Registration deadline | 1 July 2026 | [Register here](/registration/) |
+| 📝 Registration deadline | 9 August 2026 | [Register here](/registration/) |
 | ✅ Confirmation of participation | August 2026 | Via email |
 | 🧠 National Championship | 9 September 2026 | University of Antwerp |
 | 🌍 IBB World Championship | November 2026 | Online |
