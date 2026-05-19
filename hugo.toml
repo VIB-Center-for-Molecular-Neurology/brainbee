@@ -45,15 +45,15 @@ summaryLength = 40
     class = "community-section"
     [params.homeSections.cta]
       text = "International Brain Bee"
-      url = "https://www.internationalbrainbee.com/"
+      url = "https://www.thebrainbee.org/"
 
   [[params.socialLinks]]
     name = "International Brain Bee"
-    url = "https://www.internationalbrainbee.com/"
+    url = "https://www.thebrainbee.org/"
 
   [[params.socialLinks]]
     name = "VIB CMN"
-    url = "https://www.vibcmn.be"
+    url = "https://cmn.sites.vib.be/en#/"
 
 [[menus.main]]
   name = "Home"
