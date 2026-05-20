@@ -437,7 +437,6 @@ ul, ol {
   text-decoration: underline;
 }
 
-/* --- Responsive --- */
 @media (max-width: 768px) {
   h1 { font-size: 1.9rem; }
   h2 { font-size: 1.5rem; }
@@ -445,6 +444,25 @@ ul, ol {
   .footer-inner {
     grid-template-columns: 1fr;
     gap: 1.5rem;
+    flex-direction: column !important;
+    align-items: flex-start !important;
+  }
+
+  .footer-copy {
+    text-align: left !important;
+    margin-left: 0 !important;
+    padding: 1rem 0 !important;
+  }
+
+  .footer-logos-row {
+    justify-content: flex-start !important;
+    gap: 1rem !important;
+    flex-wrap: wrap;
+  }
+
+  .footer-logo-img {
+    max-width: 120px !important;
+    height: auto !important;
   }
 
   /* Mobile nav */
