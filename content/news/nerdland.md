@@ -1,5 +1,5 @@
 ---
-title: "Nerdland Podcast will be joining us at the very first edition of Brain Bee Belgium!"
+title: "Our first jury members are known..."
 date: 2026-05-19
 draft: false
 summary: "Nerdland Podcast will be joining us at the very first edition of Brain Bee Belgium!"
