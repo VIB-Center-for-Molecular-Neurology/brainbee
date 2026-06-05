@@ -13,7 +13,7 @@ Registration for the 2026 Belgian Brain Bee Championship is **now open** and com
 Register yourself before August 9th via [the registration form](https://docs.google.com/forms/d/e/1FAIpQLSdR5lsXiqH-tFPN1GeEWA1Tp3EyWT7depwSjMpKUOnKAwc9Nw/viewform) 
 {{< /toggle>}}
 
-{{< toggle question="Step 2: Get a teacher recommendation" >}} Ask your teacher or student support coordinator to complete the recommendation form linked here and email it to **brainbeebelgium@gmail.com**. One form can cover multiple students from the same school.  
+{{< toggle question="Step 2: Get a teacher recommendation" >}} Ask your teacher or student support coordinator to complete the recommendation form linked here and email it to **brainbeebelgium@gmail.com**. One form can cover multiple students from the same school. Your registration is not complete without a recommendation!  
 📄 Download the template here: [PDF](https://brainbee.be/2026/brainbee_belgium_recommendation.pdf) | [Word](https://brainbee.be/2026/brainbee_belgium_recommendation.docx)
 {{< /toggle>}}
   
@@ -21,8 +21,8 @@ Register yourself before August 9th via [the registration form](https://docs.goo
 
 
 ⚠️ **Attention!** 
-- There are only **30 spots available**, so register early. 
-- Registrations close on **August 9th**.
+- We increased the capacity to **40 students**, so register quickly if you want to be sure of your spot! 
+- Registrations close on **August 9th** or when capacity is reached.
 - Your registration is only complete once we receive **both** the online form and the recommendation. You will receive a confirmation of participation via email.
 
 For any questions, reach out to us at **brainbeebelgium@gmail.com**.
