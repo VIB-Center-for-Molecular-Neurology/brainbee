@@ -6,7 +6,7 @@ draft: false
 ---
 
 
-Registration for the 2026 Belgian Brain Bee Championship is **now open** and completely free of charge! 
+Registration for the 2026 Belgian Brain Bee Championship is full, but **open for the waiting list**. If you register now, you will be placed on the waiting list: if another student drops out, you still might be able to join. We will contact everyone by the end of June.  
 
 **To complete your registration, two steps are required:**
 {{< toggle question="Step 1: Registration" >}}  
@@ -21,9 +21,10 @@ Register yourself before August 9th via [the registration form](https://docs.goo
 
 
 ⚠️ **Attention!** 
-- We increased the capacity to **40 students**, so register quickly if you want to be sure of your spot! 
 - Registrations close on **August 9th** or when capacity is reached.
 - Your registration is only complete once we receive **both** the online form and the recommendation. You will receive a confirmation of participation via email.
+- If your teacher has already submitted the required recommendation letter (before June 8th), you may still complete the registration form and your application will be processed as normal.
+- If the recommendation letter has not yet been submitted, you are welcome to register, but you will be placed on the waiting list. If a place becomes available, we will contact you by the end of June.
 
 For any questions, reach out to us at **brainbeebelgium@gmail.com**.
 
