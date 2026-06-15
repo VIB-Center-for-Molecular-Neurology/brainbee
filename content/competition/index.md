@@ -54,6 +54,22 @@ The first round is a written test combining multiple-choice and short-answer que
 The highest-scoring students from the written test advance to the oral quiz — a fast-paced live round in front of an audience and a panel of judges. Here, it's not just about what you know, but how quickly and confidently you can think on your feet.  
 {{< /toggle>}}
 
+{{< toggle question="3. Example Multiple Choice Questions" >}}
+
+**Q1. In the motor cortex, which body parts are represented by proportionally larger areas?**    
+    A) Legs and feet  
+    B) Trunk and torso  
+    C) Hands and face, which perform fine movements  
+    D) Arms and shoulders   
+
+**Q2. Long-term use of levodopa (L-Dopa) to treat Parkinson's disease can induce dyskinesia. This side effect most likely arises because?**  
+    A) L-Dopa is converted to toxic dopamine metabolites that damage cerebellar neurons responsible for movement control  
+    B) Chronic L-Dopa treatment causes excessive dopamine stimulation in motor circuits, dysregulating basal ganglia pathways that control movement  
+    C) L-Dopa crosses the blood-brain barrier and directly stimulates serotonin receptors in the motor cortex  
+    D) L-Dopa suppresses acetylcholine in the striatum, disrupting the cholinergic component of motor control   
+
+{{< /toggle>}}
+
 Using the study resources below, you can optimally prepare for all questions!
 
 
