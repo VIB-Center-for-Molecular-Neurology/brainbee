@@ -55,6 +55,12 @@ draft: false
     <a href="https://www.fwo.be/en/" target="_blank" rel="noopener noreferrer">
         <img src="/images/fwo.png" alt="FWO" width="150" style="margin-bottom: 0.5rem;">
     </a>
+    <a href="https://nanoporetech.com/" target="_blank" rel="noopener noreferrer">
+        <img src="/images/ONT.png" alt="ONT" width="150" style="margin-bottom: 0.5rem;">
+    </a>
+    <a href="https://cronos-groep.be/en/" target="_blank" rel="noopener noreferrer">
+        <img src="/images/cronos.png" alt="Cronos" width="150" style="margin-bottom: 0.5rem;">
+    </a>
 </div>
 
 <div style="display: flex; align-items: center; gap: 1rem; margin: 4rem 0 2rem 0;">
