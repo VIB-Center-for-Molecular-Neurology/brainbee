@@ -81,6 +81,9 @@ draft: false
     <a href="https://www.vwr.com/be/en/" target="_blank" rel="noopener noreferrer">
         <img src="/images/vwr.jpg" alt="vwr" width="150" style="margin-bottom: 0.5rem;">
     </a>
+    <a href="https://www.cellsignal.com/" target="_blank" rel="noopener noreferrer">
+        <img src="/images/cellsignaling.png" alt="cellsignaling" width="150" style="margin-bottom: 0.5rem;">
+    </a>    
 </div>
 
 <div style="display: flex; align-items: center; gap: 1rem; margin: 4rem 0 2rem 0;">
