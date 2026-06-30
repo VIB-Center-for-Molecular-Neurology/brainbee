@@ -40,18 +40,23 @@ Other prices include: a cash price of **250 euro**, a trophee, a goodie bag, ...
 The format follows the standards set by the International Brain Bee and consists of two rounds: a written test and a live oral quiz.
 
 {{< toggle question="1. The Written Test" >}}
-The first round is a written test combining multiple-choice and short-answer questions. Topics include:
-
+The first round is a written test consisting of (A) multiple-choice and (B) short-answer questions.  
+#### (A) Multiple choice
+This part consists of 30 multiple choice questions covering the following topics:  
 - **Neuroanatomy**: the structure of the brain and nervous system
 - **Neural pathways**: how signals travel through the nervous system
 - **Neurological and psychiatric disorders**: from Alzheimer's and Parkinson's disease to epilepsy and depression
 - **Neuroscience research**: current breakthroughs and discoveries shaping the field
 - **Neuropharmacology**: how drugs interact with the nervous system  
+
+#### (B) Short-answer
+This part consists of 15 short-answer questions on neuroanatomy. 
+You  will be presented with a neuroanatomical image and will have 2 minutes to identify and describe indicated structures. 
 {{< /toggle>}}
 
 
 {{< toggle question="2. Oral Quiz" >}}
-The highest-scoring students from the written test advance to the oral quiz — a fast-paced live round in front of an audience and a panel of judges. Here, it's not just about what you know, but how quickly and confidently you can think on your feet.  
+The five highest-scoring students from the written test advance to the oral quiz — a fast-paced live round in front of an audience and a panel of judges. Here, it's not just about what you know, but how quickly and confidently you can think on your feet.  
 {{< /toggle>}}
 
 {{< toggle question="3. Example Multiple Choice Questions" >}}
@@ -78,8 +83,8 @@ Using the study resources below, you can optimally prepare for all questions!
 
 Want to start preparing? Here are some recommended resources:
 
-- 📘 [**Brain Facts**](https://www.brainfacts.org/the-brain-facts-book) — the official Brain Bee study guide, published by the Society for Neuroscience. Available for free as a [PDF](https://www.brainfacts.org/-/media/Brainfacts2/BrainFacts-Book/Brain-Facts-PDF-with-links.pdf), ePUB, or audiobook. This is your single most important resource.
-- 📕 [**"Neuroscience: Exploring the Brain"**](https://www.bol.com/be/nl/f/neuroscience/36270046/) by Bear, Connors & Paradiso — a comprehensive introductory textbook widely used in university courses. Helpful for deeper understanding, but not required.
+- 📘 [**Brain Facts**](https://www.brainfacts.org/the-brain-facts-book) — the official Brain Bee study guide, published by the Society for Neuroscience. Available for free as a [PDF](https://www.brainfacts.org/-/media/Brainfacts2/BrainFacts-Book/Brain-Facts-PDF-with-links.pdf), ePUB, or audiobook. This is the primary study resource and should be studied thoroughly.
+- 📕 [**"Neuroscience: Exploring the Brain"**](https://www.bol.com/be/nl/f/neuroscience/36270046/) by Bear, Connors & Paradiso — a comprehensive introductory textbook widely used in university courses. Chapter 7 Appendix is a required resource for studying neuroanatomy. A handout will be provided by the organizing committee. The remainder of the textbook is helpful for deeper understanding, but not required.
 - 💻 Online courses on [**Coursera**](https://www.coursera.org/courses?query=neuroscience) and [**Khan Academy**](https://www.khanacademy.org/science/biology/human-biology#neuroscience) — free courses covering neuroscience fundamentals. We particularly recommend [Understanding the Brain: The Neurobiology of Everyday Life](https://www.coursera.org/learn/neurobiology) from the University of Chicago as a great starting point.
 
 ## Past Winners
