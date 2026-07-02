@@ -35,7 +35,7 @@ One family member or friend per registered student, is welcome to attend as a gu
 ## Preparation
 
 {{< toggle question="What kind of knowledge do I need?" >}}
-No prior neuroscience knowledge is required! Everything you need to know is covered in the [Brain Facts](https://www.brainfacts.org/the-brain-facts-book) book, which is available for free online. A general interest in science is helpful, but you don't need to have taken any specific courses to do well.
+No official prior neuroscience knowledge (e.g. via a degree) is required! Everything you need to know is covered in the [Brain Facts](https://www.brainfacts.org/the-brain-facts-book) book, which is available for free online. A general interest in science is helpful, but you don't need to have taken any specific courses to do well.
 {{< /toggle >}}
 
 {{< toggle question="How much time should I spend preparing?" >}}

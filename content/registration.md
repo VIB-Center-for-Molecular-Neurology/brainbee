@@ -32,7 +32,7 @@ For any questions, reach out to us at **brainbeebelgium@gmail.com**.
 
 | Milestone | Date | Details |
 |---|---|---|
-| 📝 Registration deadline | 9 August 2026 | [Register here](https://docs.google.com/forms/d/1vBIcjldSJ301WSBrscrCbnjdauvH8tivqNrRcmJS89c) |
-| ✅ Confirmation of participation | August 2026 | Via email |
+| 📝 Registration deadline | 9 August 2026 | **Closed**! |
+| ✅ Confirmation of participation | 8 June 2026 | Via email |
 | 🧠 National Championship | 9 September 2026 | University of Antwerp |
 | 🌍 IBB World Championship | November 2026 | Online |
