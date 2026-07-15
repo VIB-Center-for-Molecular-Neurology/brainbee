@@ -170,22 +170,39 @@ ul, ol {
 .nav-toggle-label { display: none; }
 
 /* --- Hero Section --- */
+
 .hero {
+  color: var(--color-dark);
+  padding: 5rem 1.5rem;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.82)), url('/images/hero/hero.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.hero::before{
+  content: none;
+}
+
+/* .hero {
   background: linear-gradient(135deg, #fff9fa 0%, #fff4e6 50%, #fdf6f8 100%);
   color: var(--color-dark);
   padding: 5rem 1.5rem;
   text-align: center;
   position: relative;
   overflow: hidden;
-}
+} */
 
-.hero::before {
+/* .hero::before {
   content: '';
   position: absolute;
   inset: 0;
   background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23c57b8a' fill-opacity='0.06'%3E%3Ccircle cx='30' cy='30' r='2'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E") repeat;
   pointer-events: none;
-}
+} */
 
 .hero-content {
   position: relative;
