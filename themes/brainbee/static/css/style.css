@@ -280,6 +280,46 @@ ul, ol {
   margin-top: 2rem;
 }
 
+/* Judges section */
+.judges-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+    padding: 1rem 0;
+}
+
+.judge-card {
+    flex: 0 1 calc(33.33% - 2rem);
+    min-width: 200px;
+    text-align: center;
+}
+
+.judge-card img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 0.75rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.judge-card h4 {
+    margin: 0 0 0.25rem 0;
+}
+
+.judge-card p {
+    font-size: 0.9rem;
+    color: #555;
+    margin: 0 0 0.5rem 0;
+}
+
+.judge-card a {
+    font-size: 0.85rem;
+}
+
 /* --- News Grid --- */
 .news-section {
   background: var(--color-bg-alt);
