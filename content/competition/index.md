@@ -14,6 +14,19 @@ draft: false
 | 🧠 National Championship | 9 September 2026 | University of Antwerp |
 | 🌍 IBB World Championship | November 2026 | Online |
 
+## Day Planning - Brain Bee 9 September 2026
+
+| Time | Activity |
+|---|---|---|
+| 13:30 - 14:20 | Registration desk open |
+| 14:00 - 14:30 | Opening & welcome word |
+| 14:30 - 16:00 | Part 1: Written round |
+| 16:00 - 16:30 | Break with food & drinks |
+| 16:30 - 17:15 | Part 2: Podium round, judged by jury |
+| 17:15 - 18:00 | Award ceremony |
+
+*Please note that if you arrive after 14:20, you are no longer allowed to participate in the Brain Bee!*
+
 ## The Rules
 
 The Belgian Brain Bee is a neuroscience competition that challenges secondary school students to demonstrate their knowledge of the brain.
