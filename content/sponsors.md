@@ -43,9 +43,6 @@ draft: false
     <a href="https://belgianneuroscience.be/" target="_blank" rel="noopener noreferrer">
         <img src="/images/bsn.png" style="max-height: 100px;" alt="BSN">
     </a>
-    <a href="https://www.stopalzheimer.be/" target="_blank" rel="noopener noreferrer">
-        <img src="/images/stop_alzheimer.png" alt="StopAlzheimer">
-    </a>
     <a href="https://www.uantwerpen.be/" target="_blank" rel="noopener noreferrer">
         <img src="/images/uantwerp.png" alt="UAntwerp">
     </a>
@@ -131,5 +128,8 @@ draft: false
     </a>
     <a href="https://www.ucb.com/" target="_blank" rel="noopener noreferrer">
         <img src="/images/ucb.webp" alt="UCB">
+    </a>
+    <a href="https://www.stopalzheimer.be/" target="_blank" rel="noopener noreferrer">
+        <img src="/images/stop_alzheimer.png" alt="StopAlzheimer">
     </a>
 </div>
