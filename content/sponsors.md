@@ -129,4 +129,7 @@ draft: false
     <a href="https://www.biomina.be/" target="_blank" rel="noopener noreferrer">
         <img src="/images/biomina.png" alt="BIOMINA">
     </a>
+    <a href="https://www.ucb.com/" target="_blank" rel="noopener noreferrer">
+        <img src="/images/ucb.webp" alt="UCB">
+    </a>
 </div>
