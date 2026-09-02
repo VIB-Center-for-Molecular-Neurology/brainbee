@@ -4,16 +4,6 @@ subtitle: "Everything you need to know about participating in the Brain Bee comp
 date: 2025-09-09
 draft: false
 ---
-
-## Important Dates
-
-| Milestone | Date | Details |
-|---|---|---|
-| 📝 Registration deadline | 9 August 2026 | **Closed**! |
-| ✅ Confirmation of participation | 8 June 2026 | **Sent!** |
-| 🧠 National Championship | 9 September 2026 | University of Antwerp |
-| 🌍 IBB World Championship | November 2026 | Online |
-
 ## Day Planning - Brain Bee 9 September 2026
 
 | Time | Activity |
@@ -27,25 +17,30 @@ draft: false
 
 *Please note that if you arrive after 14:20, you are no longer allowed to participate in the Brain Bee!*
 
-## The Rules
+## Venue Information
 
-The Belgian Brain Bee is a neuroscience competition that challenges secondary school students to demonstrate their knowledge of the brain.
+### Venue
 
-- The Belgian Brain Bee is open to all secondary school students **aged 13 to 18** (19 not included)  
-- The competing student should be enrolled in a **Belgian secondary school** (middelbare school).
-- The competition is conducted **entirely in English**, so English proficiency is required.
-- Participation is completely **free**.
-- You are only allowed to participate **once** in the **International** Brain Bee.
 
-*We also welcome volunteers! If you'd like to help, you can apply by reaching out to us via [our mail address.](mailto:brainbeebelgium@gmail.com)*
+Stadcampus University of Antwerp - Building E (Agora)  
+Grote Kauwenberg 2, Antwerp  
+Rooms: S.E201, S.E207   
+Signs will help you lead the way!  
 
+### How to get there: 
+We strongly recommend coming by **public transport or by bike**
+ 
+- By train: Get off at Antwerpen centraal. The campus is approximately a 15 minute walk from the station
+- By car: There are several public parkings  around the stadscampus. Please note that parking is paid.
+You can find more info on how to get to the Stadscampus here
 
 ## Prizes
 Just like any other competition, we have foreseen some exciting prices, and not only for the top three students!
 - **First place:** The winner of this national Brain Bee, gets to represent Belgium during the **International Brain Bee World Championship**, hosted by the US!
-Other prices include: a cash price of **250 euro**, a trophee, a goodie bag, ...
-- **Second** and **third** place will also receive a cash price of **150** euro and **100** euro respectively, a trophee and a goodie bag filled with fun stuff ...
-- **ALL other participants** will receive a goodie bag as well!
+Other prices include: a cash price of **500 euro**, a trophee, a goodie bag, ...
+- **Second** and **third** place will also receive a cash price of **300** euro and **200** euro respectively, a trophee and a goodie bag filled with fun stuff ...
+- **The whole top five** will get beautiful neurobooks + a duo-cinematicket
+- **ALL participants** will receive a goodie bag as well!
 
 
 ## Competition Format
@@ -68,8 +63,12 @@ You  will be presented with a neuroanatomical image and will have 2 minutes to i
 {{< /toggle>}}
 
 
-{{< toggle question="2. Oral Quiz" >}}
-The five highest-scoring students from the written test advance to the oral quiz — a fast-paced live round in front of an audience and a panel of judges. Here, it's not just about what you know, but how quickly and confidently you can think on your feet.  
+{{< toggle question="2. The Podium Round" >}}
+The five highest-scoring students from the written test advance to the oral quiz: a fast-paced live round in front of an audience and a panel of judges. Here, success depends not only on what you know, but also on how quickly and confidently you can answer. All participants will be able to follow the podium round.
+
+- **Part A**: Rapid fire questions
+- **Part B**: Reasoning questions
+
 {{< /toggle>}}
 
 {{< toggle question="3. Example Multiple Choice Questions" >}}
@@ -109,7 +108,7 @@ The oral quiz is evaluated by a panel of leading neuroscientists from Belgian re
     <h4>Robrecht Raedt</h4>
     <p>Associate Research Professor. President of BSN. Researches new therapies for brain cancer (glioblastoma) and glioma-associated epilepsy, focusing on repurposed drug combinations and neuroprotection against radiotherapy side effects.
  </p>
-    <a href="https://site.com" target="_blank" rel="noopener noreferrer">Learn more →</a>
+    <a href="https://www.crig.ugent.be/en/prof-robrecht-raedt-phd" target="_blank" rel="noopener noreferrer">Learn more →</a>
 </div>
 
 <div class="judge-card">
@@ -150,6 +149,29 @@ Want to start preparing? Here are some recommended resources:
 - 📘 [**Brain Facts**](https://www.brainfacts.org/the-brain-facts-book) — the official Brain Bee study guide, published by the Society for Neuroscience. Available for free as a [PDF](https://www.brainfacts.org/-/media/Brainfacts2/BrainFacts-Book/Brain-Facts-PDF-with-links.pdf), ePUB, or audiobook. This is the primary study resource and should be studied thoroughly.
 - 📕 [**"Neuroscience: Exploring the Brain"**](https://www.bol.com/be/nl/f/neuroscience/36270046/) by Bear, Connors & Paradiso — a comprehensive introductory textbook widely used in university courses. Chapter 7 Appendix is a required resource for studying neuroanatomy. A handout will be provided by the organizing committee. The remainder of the textbook is helpful for deeper understanding, but not required.
 - 💻 Online courses on [**Coursera**](https://www.coursera.org/courses?query=neuroscience) and [**Khan Academy**](https://www.khanacademy.org/science/biology/human-biology#neuroscience) — free courses covering neuroscience fundamentals. We particularly recommend [Understanding the Brain: The Neurobiology of Everyday Life](https://www.coursera.org/learn/neurobiology) from the University of Chicago as a great starting point.
+
+
+## The Rules
+
+The Belgian Brain Bee is a neuroscience competition that challenges secondary school students to demonstrate their knowledge of the brain.
+
+- The Belgian Brain Bee is open to all secondary school students **aged 13 to 18** (19 not included)  
+- The competing student should be enrolled in a **Belgian secondary school** (middelbare school).
+- The competition is conducted **entirely in English**, so English proficiency is required.
+- Participation is completely **free**.
+- You are only allowed to participate **once** in the **International** Brain Bee.
+
+
+## Important Dates
+
+| Milestone | Date | Details |
+|---|---|---|
+| 📝 Registration deadline | 9 August 2026 | **Closed**! |
+| ✅ Confirmation of participation | 8 June 2026 | **Sent!** |
+| 🧠 National Championship | 9 September 2026 | University of Antwerp |
+| 🌍 IBB World Championship | November 2026 | Online |
+
+
 
 ## Past Winners
 
