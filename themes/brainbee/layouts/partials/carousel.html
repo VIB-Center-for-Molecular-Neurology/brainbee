@@ -1,0 +1,9 @@
+<div class="carousel">
+  <div class="carousel-track">
+    {{ range . }}
+    <div class="carousel-item">
+      <img src="{{ .src | relURL }}" alt="{{ .alt }}" loading="lazy">
+    </div>
+    {{ end }}
+  </div>
+</div>

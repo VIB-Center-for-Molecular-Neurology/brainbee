@@ -10,6 +10,19 @@
   </div>
 </section>
 
+{{ with first 1 (where (where .Site.RegularPages "Section" "news") "Params.highlight" true) }}
+{{ with index . 0 }}
+<section class="home-section highlight-section">
+  <div class="section-inner">
+    <h2>{{ .Title }}</h2>
+    <p>{{ .Summary }}</p>
+    {{ with .Params.photos }}{{ partial "carousel.html" . }}{{ end }}
+    <a href="{{ .RelPermalink }}" class="btn btn-primary">Read the full story</a>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
 {{ range .Site.Params.homeSections }}
 <section class="home-section {{ .class }}">
   <div class="section-inner">
@@ -26,10 +39,11 @@
 {{ if $pages }}
 <section class="home-section news-section">
   <div class="section-inner">
-    <h2>Latest Updates</h2>
+    <h2>Latest News</h2>
     <div class="news-grid">
       {{ range first 3 $pages }}
       <article class="news-card">
+        {{ with .Params.image }}<img class="card-thumb" src="{{ . | relURL }}" alt="" loading="lazy">{{ end }}
         <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
         <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
         <p>{{ .Summary }}</p>
@@ -37,7 +51,7 @@
       </article>
       {{ end }}
     </div>
-    <a href="{{ "/news/" | relURL }}" class="btn btn-secondary">All Updates</a>
+    <a href="{{ "/news/" | relURL }}" class="btn btn-secondary">All News</a>
   </div>
 </section>
 {{ end }}

@@ -7,6 +7,7 @@
   <div class="post-list">
     {{ range .Pages }}
     <article class="post-card">
+      {{ with .Params.image }}<img class="card-thumb" src="{{ . | relURL }}" alt="" loading="lazy">{{ end }}
       <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
       <p>{{ .Summary }}</p>

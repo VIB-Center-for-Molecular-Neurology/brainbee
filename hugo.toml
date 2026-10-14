@@ -77,7 +77,7 @@ summaryLength = 40
 
 
 [[menus.main]]
-  name = "Updates"
+  name = "News"
   url = "/news/"
   weight = 5
 
