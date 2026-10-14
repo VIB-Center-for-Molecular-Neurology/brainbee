@@ -1,12 +1,14 @@
 {{/* Self-closing {{< carousel />}} uses the page's `photos` front matter; otherwise one "path | alt" per line. */}}
 {{ $photos := slice }}
-{{ with strings.TrimSpace .Inner }}
-  {{ range split . "\n" }}
-    {{ with strings.TrimSpace . }}
-      {{ $parts := split . "|" }}
+{{ $inner := trim (string .Inner) " \t\r\n" }}
+{{ if $inner }}
+  {{ range split $inner "\n" }}
+    {{ $line := trim . " \t\r" }}
+    {{ if $line }}
+      {{ $parts := split $line "|" }}
       {{ $alt := "" }}
-      {{ if gt (len $parts) 1 }}{{ $alt = strings.TrimSpace (index $parts 1) }}{{ end }}
-      {{ $photos = $photos | append (dict "src" (strings.TrimSpace (index $parts 0)) "alt" $alt) }}
+      {{ if gt (len $parts) 1 }}{{ $alt = trim (index $parts 1) " " }}{{ end }}
+      {{ $photos = $photos | append (dict "src" (trim (index $parts 0) " ") "alt" $alt) }}
     {{ end }}
   {{ end }}
 {{ else }}
